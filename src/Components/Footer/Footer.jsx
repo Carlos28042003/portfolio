@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="footer-bottom-right">
         <ul>
                   <li><a target="_blank" href="https://github.com/Carlos28042003">GitHub</a></li>
-                  <li><a target="_blank" href="www.linkedin.com/in/carlos-cherindza-8b9576239">LinkedIn</a></li>
+                  <li><a target="_blank" href="https://www.linkedin.com/in/carlos-cherindza-8b9576239/">LinkedIn</a></li>
                   <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100011854264967">Facebook</a></li>
                  
           </ul>
